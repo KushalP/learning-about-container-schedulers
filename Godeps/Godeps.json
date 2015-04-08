@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/kushalp/learning-about-container-schedulers",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/onsi/ginkgo",
+			"Comment": "v1.1.0-42-gdbb5c6c",
+			"Rev": "dbb5c6caf33238b57facc1d975b1aaca6b90288c"
+		},
+		{
+			"ImportPath": "github.com/onsi/gomega",
+			"Comment": "v1.0-39-gc853a76",
+			"Rev": "c853a76367c700fe446c27bc7e6fc8209ee4e0a1"
+		}
+	]
+}
