@@ -11,3 +11,12 @@ it exposes.
 
 Currently there's only a single scheduler that's been implemented: a
 random scheduler.
+
+## Development
+
+The project uses [Godep](https://github.com/tools/godep) to manage
+dependencies. To download Godep do the following:
+`go install github.com/tools/godep`.
+
+You can then load all of the dependencies: `godep restore`. And then
+run all of the tests: `godep go test -v ./...`.
