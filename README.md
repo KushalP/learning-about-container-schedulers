@@ -19,7 +19,9 @@ dependencies.
 
 To download Godep run the following:
 
-`go install github.com/tools/godep`.
+```bash
+go install github.com/tools/godep
+```
 
 ### Fetching dependencies
 
