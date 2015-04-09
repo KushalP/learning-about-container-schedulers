@@ -9,8 +9,8 @@ it exposes.
 
 ## Schedulers
 
-Currently there's only a single scheduler that's been implemented: a
-random scheduler.
+Currently there's only a single scheduler that's been implemented: the
+[random scheduler](random).
 
 ## Development
 
